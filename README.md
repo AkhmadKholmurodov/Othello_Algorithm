@@ -39,4 +39,5 @@ Initial_board는 시작작화면의 board를 의미한다
 - white_label_move는 'White' 플레이어의 이긴 이동에 대한 라벨을 저장하는 NumPy 배열
 - 
 this is A final result of the Algorithm
- (https://github.com/AkhmadKholmurodov/Othello_Algorithm/assets/87185085/38f7e56a-6601-443b-ae4b-110fd70153d8)
+![unknown](https://github.com/AkhmadKholmurodov/Othello_Algorithm/assets/87185085/4db62533-04ff-45fd-a04d-54aba3ffffab)
+
